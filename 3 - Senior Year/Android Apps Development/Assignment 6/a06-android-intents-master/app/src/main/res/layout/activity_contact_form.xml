@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContactFormActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/nameImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="@dimen/imageViewMarginVertical"
+                android:layout_weight="1"
+                android:gravity="center"
+                app:srcCompat="@drawable/ic_perm_identity_black_24"
+                style="@style/AppTheme.ImageView"/>
+
+            <EditText
+                android:id="@+id/editFirstName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/editTextMarginRight"
+                android:layout_weight="3"
+                android:ems="10"
+                android:hint="@string/first_name_hint"
+                style="@style/AppTheme.ContactForm.EditText"
+                android:inputType="textPersonName"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/editLastName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="53dp"
+                android:layout_marginRight="@dimen/editTextMarginRight"
+                android:layout_weight="1"
+                android:ems="10"
+                android:hint="@string/last_name_hint"
+                style="@style/AppTheme.ContactForm.EditText"
+                android:inputType="textPersonName"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/phoneImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="@dimen/imageViewMarginVertical"
+                android:layout_weight="1"
+                android:gravity="center"
+                app:srcCompat="@drawable/ic_phone_black_24dp"
+                style="@style/AppTheme.ImageView"/>
+
+            <EditText
+                android:id="@+id/editPhone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/editTextMarginRight"
+                android:layout_weight="3"
+                android:ems="10"
+                android:hint="@string/phone_hint"
+                style="@style/AppTheme.ContactForm.EditText"
+                android:inputType="phone"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/emailImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginVertical="@dimen/imageViewMarginVertical"
+                app:srcCompat="@drawable/ic_email_black_24dp"
+                style="@style/AppTheme.ImageView"/>
+
+            <EditText
+                android:id="@+id/editEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/editTextMarginRight"
+                android:layout_weight="3"
+                android:ems="10"
+                android:hint="@string/email_hint"
+                style="@style/AppTheme.ContactForm.EditText"
+                android:inputType="textEmailAddress"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/addressImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginVertical="@dimen/imageViewMarginVertical"
+                app:srcCompat="@drawable/ic_place_black_24dp"
+                style="@style/AppTheme.ImageView"/>
+
+            <EditText
+                android:id="@+id/editAddress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/editTextMarginRight"
+                android:layout_weight="3"
+                android:ems="10"
+                android:hint="@string/address_hint"
+                style="@style/AppTheme.ContactForm.EditText"
+                android:inputType="textPostalAddress"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/websiteImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginVertical="@dimen/imageViewMarginVertical"
+                app:srcCompat="@drawable/ic_public_black_24dp"
+                style="@style/AppTheme.ImageView"/>
+
+            <EditText
+                android:id="@+id/editWebsite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:layout_marginRight="@dimen/editTextMarginRight"
+                android:ems="10"
+                android:hint="@string/website_hint"
+                style="@style/AppTheme.ContactForm.EditText" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/saveButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/save_button_label"
+            android:layout_marginRight="@dimen/editTextMarginRight"
+            android:layout_marginLeft="53dp"
+            style="@style/AppTheme.ContactForm.Button" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

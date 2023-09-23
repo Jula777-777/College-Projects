@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DiceCollector</string>
+    <string name="checkImgBtn">Check Image</string>
+    <string name="diceNumText">Dice Number (ex 29122)</string>
+    <string name="diceNameText">Dice Name</string>
+    <string name="diceColorText">Dice Color</string>
+    <string name="diceSaveButton">Save Dice Set</string>
+    <string name="noteInputText">Notes</string>\
+    <string name="onboardingMessage">Press the plus button at the bottom to add your first set of dice!</string>
+    <string name="diceDeleteButton">Delete Dice Set</string>
+    <string name="diceEditButton">Edit Dice Set</string>
+    <string name="diceNumTextView">Number: </string>
+    <string name="diceColorTextView">Color: </string>
+    <string name="diceNoteTextView">Notes: </string>
+</resources>
