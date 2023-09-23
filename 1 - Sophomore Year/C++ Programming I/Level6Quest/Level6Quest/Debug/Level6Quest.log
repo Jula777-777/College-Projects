@@ -1,0 +1,5 @@
+﻿  Account.cpp
+C:\Users\justi\source\repos\Level6Quest\Level6Quest\Account.cpp(117,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\source\repos\Level6Quest\Level6Quest\Account.cpp(133,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\source\repos\Level6Quest\Level6Quest\Account.cpp(149,17): warning C4018: '<': signed/unsigned mismatch
+  Level6Quest.vcxproj -> C:\Users\justi\source\repos\Level6Quest\Debug\Level6Quest.exe
