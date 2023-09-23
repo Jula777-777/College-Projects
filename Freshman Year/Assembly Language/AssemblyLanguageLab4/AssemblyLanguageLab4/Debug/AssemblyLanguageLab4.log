@@ -1,3 +1,0 @@
-﻿  Assembling Source.asm...
-Source.asm(7): warning A4011: multiple .MODEL directives found : .MODEL ignored
-  AssemblyLanguageLab4.vcxproj -> C:\Users\justi\source\repos\AssemblyLanguageLab4\Debug\AssemblyLanguageLab4.exe
