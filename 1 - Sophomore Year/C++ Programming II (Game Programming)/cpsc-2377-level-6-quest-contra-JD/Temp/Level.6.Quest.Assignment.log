@@ -1,0 +1,42 @@
+﻿  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\SDL2\lib\x86\libfreetype-6.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\SDL2\lib\x86\libjpeg-9.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\SDL2\lib\x86\libpng16-16.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\SDL2\lib\x86\libtiff-5.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\SDL2\lib\x86\libwebp-4.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\SDL2\lib\x86\SDL2.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\SDL2\lib\x86\SDL2_image.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\SDL2\lib\x86\SDL2_ttf.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\SDL2\lib\x86\zlib1.dll
+          9 file(s) copied.
+  AnimatedObject.cpp
+C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\Source\AnimatedObject.cpp(7,41): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\Source\AnimatedObject.cpp(7,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\Source\AnimatedObject.cpp(7,47): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\Source\AnimatedObject.cpp(7,47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\Source\AnimatedObject.cpp(9,50): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\Source\AnimatedObject.cpp(9,50): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\Source\AnimatedObject.cpp(9,56): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\Source\AnimatedObject.cpp(9,56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\Source\AnimatedObject.cpp(78,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\Source\AnimatedObject.cpp(81,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Block.cpp
+  Enemy.cpp
+  engine.cpp
+  GUI.cpp
+  level.6.quest.cpp
+  Object.cpp
+  Player.cpp
+  Texture.cpp
+  Timer.cpp
+  Generating Code...
+  Level.6.Quest.Assignment.vcxproj -> C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\Game\Level.6.Quest.Assignment.exe
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\libfreetype-6.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\libjpeg-9.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\libpng16-16.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\libtiff-5.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\libwebp-4.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\SDL2.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\SDL2_image.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\SDL2_ttf.dll
+  C:\Users\justi\Documents\GitHub\College-Projects\Sophomore Year\C++ Programming II (Game Programming)\cpsc-2377-level-6-quest-contra-JD\zlib1.dll
+          9 file(s) moved.

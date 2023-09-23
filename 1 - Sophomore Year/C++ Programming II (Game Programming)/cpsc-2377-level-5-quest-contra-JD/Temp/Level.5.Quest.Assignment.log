@@ -1,0 +1,30 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\Temp\) contains files shared from another project (Level.4.Quest.Solution.vcxproj, Level.5.Quest.Solution.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\SDL2\lib\x86\libfreetype-6.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\SDL2\lib\x86\libjpeg-9.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\SDL2\lib\x86\libpng16-16.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\SDL2\lib\x86\libtiff-5.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\SDL2\lib\x86\libwebp-4.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\SDL2\lib\x86\SDL2.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\SDL2\lib\x86\SDL2_image.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\SDL2\lib\x86\SDL2_ttf.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\SDL2\lib\x86\zlib1.dll
+          9 file(s) copied.
+  AnimatedObject.cpp
+C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\Source\AnimatedObject.cpp(10,41): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\Source\AnimatedObject.cpp(10,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\Source\AnimatedObject.cpp(10,47): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\Source\AnimatedObject.cpp(10,47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\Source\AnimatedObject.cpp(46,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\Source\AnimatedObject.cpp(80,38): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\Source\AnimatedObject.cpp(81,37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Level.5.Quest.Assignment.vcxproj -> C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\Game\Level.5.Quest.Assignment.exe
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\libfreetype-6.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\libjpeg-9.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\libpng16-16.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\libtiff-5.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\libwebp-4.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\SDL2.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\SDL2_image.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\SDL2_ttf.dll
+  C:\Users\justi\Documents\GitHub\cpsc-2377-level-5-quest-contra-JustinDady7\zlib1.dll
+          9 file(s) moved.
