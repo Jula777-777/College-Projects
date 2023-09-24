@@ -1,0 +1,15 @@
+C:\Users\justi\Documents\GitHub\assignment-05-enriching-the-game-sheltem-dady-dawes-thomas\SheltemAssignment5\Intermediate\Build\Win64\UE4Editor\Development\SheltemAssignment3\Definitions.SheltemAssignment3.h
+C:\Users\justi\Documents\GitHub\assignment-05-enriching-the-game-sheltem-dady-dawes-thomas\SheltemAssignment5\Source\SheltemAssignment3\TP_ThirdPerson\TP_ThirdPersonGameMode.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\justi\Documents\GitHub\assignment-05-enriching-the-game-sheltem-dady-dawes-thomas\SheltemAssignment5\Intermediate\Build\Win64\UE4Editor\Inc\SheltemAssignment3\TP_ThirdPersonGameMode.generated.h
+C:\Users\justi\Documents\GitHub\assignment-05-enriching-the-game-sheltem-dady-dawes-thomas\SheltemAssignment5\Source\SheltemAssignment3\TP_ThirdPerson\TP_ThirdPersonCharacter.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\justi\Documents\GitHub\assignment-05-enriching-the-game-sheltem-dady-dawes-thomas\SheltemAssignment5\Intermediate\Build\Win64\UE4Editor\Inc\SheltemAssignment3\TP_ThirdPersonCharacter.generated.h

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SheltemAssignment3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2D5C2D87-2ED3-44BD-86F3-03C185EA027D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SheltemAssignment3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SheltemAssignment3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\UnrealEngine.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{F0C95108-160B-4922-9271-5A274D5C0226}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SheltemAssignment3">
+      <UniqueIdentifier>{41B690C9-D0EB-4FE2-ADE4-186AEE492BB4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SheltemAssignment3\CoinC.cpp">
+      <Filter>Source\SheltemAssignment3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SheltemAssignment3\CoinC.h">
+      <Filter>Source\SheltemAssignment3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SheltemAssignment3\Lights.cpp">
+      <Filter>Source\SheltemAssignment3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SheltemAssignment3\Lights.h">
+      <Filter>Source\SheltemAssignment3</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SheltemAssignment3\SheltemAssignment3.Build.cs">
+      <Filter>Source\SheltemAssignment3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SheltemAssignment3\SheltemAssignment3.cpp">
+      <Filter>Source\SheltemAssignment3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SheltemAssignment3\SheltemAssignment3.h">
+      <Filter>Source\SheltemAssignment3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SheltemAssignment3\SwingDoor.cpp">
+      <Filter>Source\SheltemAssignment3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SheltemAssignment3\SwingDoor.h">
+      <Filter>Source\SheltemAssignment3</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SheltemAssignment3\TP_ThirdPerson.zip">
+      <Filter>Source\SheltemAssignment3</Filter>
+    </None>
+    <Filter Include="Source\SheltemAssignment3\TP_ThirdPerson">
+      <UniqueIdentifier>{4DCEBD92-1C35-4357-B468-9E3323CE2323}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\SheltemAssignment3\TP_ThirdPerson\TP_ThirdPerson.h">
+      <Filter>Source\SheltemAssignment3\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SheltemAssignment3\TP_ThirdPerson\TP_ThirdPersonCharacter.cpp">
+      <Filter>Source\SheltemAssignment3\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SheltemAssignment3\TP_ThirdPerson\TP_ThirdPersonCharacter.h">
+      <Filter>Source\SheltemAssignment3\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SheltemAssignment3\TP_ThirdPerson\TP_ThirdPersonGameMode.cpp">
+      <Filter>Source\SheltemAssignment3\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SheltemAssignment3\TP_ThirdPerson\TP_ThirdPersonGameMode.h">
+      <Filter>Source\SheltemAssignment3\TP_ThirdPerson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

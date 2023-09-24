@@ -1,0 +1,18 @@
+C:\Users\justi\Documents\GitHub\assignment-05-enriching-the-game-sheltem-dady-dawes-thomas\SheltemAssignment5\Intermediate\Build\Win64\UE4Editor\Development\SheltemAssignment3\Definitions.SheltemAssignment3.h
+C:\Users\justi\Documents\GitHub\assignment-05-enriching-the-game-sheltem-dady-dawes-thomas\SheltemAssignment5\Source\SheltemAssignment3\CoinC.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\Users\justi\Documents\GitHub\assignment-05-enriching-the-game-sheltem-dady-dawes-thomas\SheltemAssignment5\Source\SheltemAssignment3\SwingDoor.h
+C:\Users\justi\Documents\GitHub\assignment-05-enriching-the-game-sheltem-dady-dawes-thomas\SheltemAssignment5\Intermediate\Build\Win64\UE4Editor\Inc\SheltemAssignment3\SwingDoor.generated.h
+C:\Users\justi\Documents\GitHub\assignment-05-enriching-the-game-sheltem-dady-dawes-thomas\SheltemAssignment5\Intermediate\Build\Win64\UE4Editor\Inc\SheltemAssignment3\CoinC.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h

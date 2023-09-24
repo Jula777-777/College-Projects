@@ -1,0 +1,17 @@
+C:\Users\justi\Documents\GitHub\assignment-05-enriching-the-game-sheltem-dady-dawes-thomas\SheltemAssignment5\Intermediate\Build\Win64\UE4Editor\Development\SheltemAssignment3\Definitions.SheltemAssignment3.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\justi\Documents\GitHub\assignment-05-enriching-the-game-sheltem-dady-dawes-thomas\SheltemAssignment5\Source\SheltemAssignment3/Lights.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBox.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBase.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBase.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBox.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/PointLight.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Light.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Light.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PointLight.generated.h
+C:\Users\justi\Documents\GitHub\assignment-05-enriching-the-game-sheltem-dady-dawes-thomas\SheltemAssignment5\Intermediate\Build\Win64\UE4Editor\Inc\SheltemAssignment3\Lights.generated.h
